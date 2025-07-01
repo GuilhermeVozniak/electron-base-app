@@ -1,4 +1,4 @@
-# electron-baseapp
+# electron-base-app
 
 Electron in all its glory. Everything you will need to develop your beautiful desktop application.
 
